@@ -1,0 +1,25 @@
+20230222	20:40:49	8b32cab5-2a0a-4b9c-bc9a-c12d4acfd93a	/	GET
+20230222	20:40:49	35763649-0fd6-4e67-9d16-10c12be9be70	/css/style.css	GET
+20230222	20:40:49	7c990f52-9422-4698-b6a0-39105806a488	/favicon.ico	GET
+20230223	20:52:58	2d02e21c-e38a-4386-939c-359f2e79f76a	GET	undefined	/
+20230223	20:52:58	e43d2705-5976-45b7-b187-2e62d15c4d47	GET	undefined	/css/style.css
+20230223	20:53:54	aa7fa002-b60f-48d0-8b22-f0d4f5f82d4d	GET	undefined	/
+20230223	20:53:54	191a7a46-044d-437b-a9b2-061ff7057680	GET	undefined	/css/style.css
+20230223	20:56:47	a9de698c-1698-48da-8378-7f378c298da4	GET	undefined	/
+20230223	20:56:47	d2a78dd3-dfb3-4ce4-9baa-460d1c5d96e1	GET	undefined	/css/style.css
+20230223	21:34:00	8f0780c0-bf6d-472e-94a2-ecb4402b4658	GET	undefined	/
+20230223	21:34:00	dc3a581c-ecec-4160-893d-ca0ec43421d4	GET	undefined	/css/style.css
+20230223	21:38:50	e6974c2c-ac48-45fb-a7ab-e48b579ed344	GET	undefined	/
+20230223	21:38:50	f5fce377-437a-4d5c-ba5f-06db88b384be	GET	undefined	/css/style.css
+20230223	21:41:34	1af4d83e-04a1-4833-b34f-c6325edb997b	GET	undefined	/dad
+20230223	21:41:34	5f028e2c-687c-4678-9806-2ef12eac0da4	GET	undefined	/css/style.css
+20230223	21:41:44	1c73a0d6-233a-4ac2-9441-88bc0d0461aa	GET	undefined	/
+20230223	21:41:44	52fbb0f4-3ecb-4dc8-8b00-bdf6c4a3c00c	GET	undefined	/css/style.css
+20230223	21:48:00	86875276-29e9-4a36-b09c-893d65b8af3b	GET	undefined	/
+20230223	21:48:00	ab5c1dfb-ed49-47c0-9974-c42069a67d40	GET	undefined	/css/style.css
+20230223	21:48:10	ca6e7fee-33b2-4b96-a9b7-b19cbd4429b4	GET	undefined	/d
+20230223	21:48:10	d62d47c4-e895-4e2a-8a22-3adf572aa46c	GET	undefined	/css/style.css
+20230223	21:48:15	cee8965f-449d-4eac-894c-0d167c8eab00	GET	undefined	/
+20230223	21:48:16	d428b7f0-d726-4924-8c1c-497c6503f355	GET	undefined	/css/style.css
+20230223	21:48:20	4156fc3b-3a27-479f-93b7-2e0ab8b14f78	GET	undefined	/
+20230223	21:48:20	488e8571-2f06-4006-a426-7f479ddbb086	GET	undefined	/css/style.css
