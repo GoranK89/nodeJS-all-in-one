@@ -65,3 +65,6 @@
 20230226	12:56:51	7192a126-307c-4ab3-80bc-77867533f31f	POST	undefined	/auth
 20230226	14:26:32	be2f7c5f-4288-416a-b8c2-ee19fddfc4db	POST	undefined	/register
 20230226	14:27:17	ffde5e1c-e81d-47de-9825-26bce8b64843	POST	undefined	/register
+20230226	14:54:52	75ff3bfd-f607-4d06-ad7e-a020aa2efb76	POST	undefined	/register
+20230226	14:55:14	62d7804f-5ad0-4f5d-a39e-6b5f335e129b	POST	undefined	/auth
+20230226	14:56:09	de1d090f-3641-47d7-8d4f-bddbc964bd8a	GET	undefined	/refresh
